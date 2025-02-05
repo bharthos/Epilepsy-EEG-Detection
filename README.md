@@ -5,9 +5,9 @@ An AI-powered approach for detecting epileptic seizures using EEG signals and ma
 This project focuses on automated epilepsy detection using EEG (Electroencephalogram) signals and advanced machine learning models. Epilepsy is a neurological disorder characterized by recurrent seizures, and early detection is crucial for effective treatment. Traditional methods of seizure detection rely on manual EEG analysis, which is time-consuming and prone to errors. This project aims to automate seizure detection using machine learning techniques for higher accuracy and efficiency.
 
 ## 🧠 Key Features
-📊 EEG Data Preprocessing – Cleaning, normalization, and feature extraction using Discrete Wavelet Transform (DWT) and Hurst Exponent Analysis.
-🤖 Machine Learning Models – Implemented XGBoost, SVM, Logistic Regression, and Decision Tree for classification.
-🎯 Performance Evaluation – Compared models using accuracy, precision, and recall metrics to determine the best-performing classifier.
+# 📊 EEG Data Preprocessing – Cleaning, normalization, and feature extraction using Discrete Wavelet Transform (DWT) and Hurst Exponent Analysis.
+# 🤖 Machine Learning Models – Implemented XGBoost, SVM, Logistic Regression, and Decision Tree for classification.
+# 🎯 Performance Evaluation – Compared models using accuracy, precision, and recall metrics to determine the best-performing classifier.
 ⚡ Optimized Feature Selection – Utilized ANOVA test for selecting the most relevant features.
 🚀 Automated Workflow – Streamlined data processing, training, and evaluation for epilepsy detection.
 ## 🔬 Methodology
