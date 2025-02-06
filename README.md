@@ -10,7 +10,7 @@ This project focuses on automated epilepsy detection using EEG (Electroencephalo
 - 🤖 **Machine Learning Models** – Implemented **XGBoost, SVM, Logistic Regression, and Decision Tree** for classification.
 - 🎯 **Performance Evaluation** – Compared models using **accuracy, precision, and recall metrics** to determine the best-performing classifier.
 - ⚡ **Optimized Feature Selection** – Utilized **ANOVA test** for selecting the most relevant features.
-- 🚀 **Automated Workflow** – Streamlined data processing, training, and evaluation for epilepsy detection.
+- 🚀 **Automated Workflow** – Streamlined data processing, training, and evaluation for epilepsy detection. 
 
 ## 🔬 Methodology
 1. **Dataset Preparation** – Used EEG recordings, labeled as seizure and non-seizure cases.
