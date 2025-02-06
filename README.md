@@ -17,7 +17,7 @@ This project focuses on automated epilepsy detection using EEG (Electroencephalo
 2. **Feature Engineering** – Extracted spectral and time-domain features using **DWT and statistical methods**.
 3. **Model Training** – Trained multiple classifiers and fine-tuned hyperparameters.
 4. **Evaluation & Comparison** – Assessed models based on **accuracy, precision, recall, and F1-score**.
-5. **Results Interpretation** – Identified **XGBoost as the best-performing model** for seizure prediction.
+5. **Results Interpretation** – Identified **XGBoost as the best-performing model** for seizure prediction. 
 
 ## 📊 Results
 - **XGBoost** achieved **98.1% accuracy**, outperforming other models.
