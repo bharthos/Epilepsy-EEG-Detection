@@ -15,7 +15,7 @@ This project focuses on automated epilepsy detection using EEG (Electroencephalo
 ## 🔬 Methodology
 1. **Dataset Preparation** – Used EEG recordings, labeled as seizure and non-seizure cases.
 2. **Feature Engineering** – Extracted spectral and time-domain features using **DWT and statistical methods**.
-3. **Model Training** – Trained multiple classifiers and fine-tuned hyperparameters.
+3. **Model Training** – Trained multiple classifiers and fine-tuned hyperparameters. 
 4. **Evaluation & Comparison** – Assessed models based on **accuracy, precision, recall, and F1-score**.
 5. **Results Interpretation** – Identified **XGBoost as the best-performing model** for seizure prediction. 
 
